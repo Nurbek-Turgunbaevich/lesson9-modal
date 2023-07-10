@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lesson9-modal/static/css/main.073c9b0a.css",
+    "main.js": "/lesson9-modal/static/js/main.5762e2ab.js",
+    "index.html": "/lesson9-modal/index.html",
+    "main.073c9b0a.css.map": "/lesson9-modal/static/css/main.073c9b0a.css.map",
+    "main.5762e2ab.js.map": "/lesson9-modal/static/js/main.5762e2ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5762e2ab.js"
+  ]
+}
